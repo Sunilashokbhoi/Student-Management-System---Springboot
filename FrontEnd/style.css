@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #ccc;
+}
+.container{
+    max-width: 800px;
+    margin: auto;
+}
+.form input{
+    padding: 6px;
+    margin: 5px;
+}
+button{
+    padding: 7px 12px;
+}
+table {
+    border-collapse: collapse;
+     width: 100%;
+     margin-top: 20px;
+}
+td, th{
+    padding: 10px;
+    border: 1px solid #ccc; text-align: left;
+
+}
